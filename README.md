@@ -1,0 +1,1 @@
+# StratisAcademicLabContractsinDotnet6
